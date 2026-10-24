@@ -9,7 +9,7 @@
   <a href="https://jaking-studios.github.io/glaze-and-grind/play/"><img src="https://img.shields.io/badge/▶_Play_Glaze_%26_Grind-E2B04A?style=for-the-badge&logo=godotengine&logoColor=black" alt="Play"></a>
   <a href="https://github.com/jaineil32624/jaineil32624/issues/new?template=game-request.yml"><img src="https://img.shields.io/badge/Commission_a_Game-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Commission a game"></a>
   <a href="https://github.com/sponsors/jaineil32624"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
-  <a href="https://claude.ai/artifact/SdNUh1nvzcbWbumjELEB7o"><img src="https://img.shields.io/badge/Become_a_Patron-F2BD4B?style=for-the-badge&logo=patreon&logoColor=black" alt="Become a patron"></a>
+  <a href="https://jaking-studios.github.io/patrons/"><img src="https://img.shields.io/badge/Become_a_Patron-F2BD4B?style=for-the-badge&logo=patreon&logoColor=black" alt="Become a patron"></a>
 </p>
 
 ## 🎮 Games
@@ -40,7 +40,7 @@ Want a custom game? **$70–100 per game**, with a **$30 launch deal** for the f
 
 ## 👑 Support JaKing
 
-Everything here is made by **[Jaineil Rana (JaKing)](https://github.com/jaineil32624)** and is free to play. Back new games, 3D worlds and websites on the **[patron page](https://claude.ai/artifact/SdNUh1nvzcbWbumjELEB7o)** or through **[GitHub Sponsors](https://github.com/sponsors/jaineil32624)**. JaKing also tutors math up to AP Calc BC: **[JaKing Math tutoring](https://claude.ai/artifact/Rt8sHV1h68fsDEej1Vrekv)**.
+Everything here is made by **[Jaineil Rana (JaKing)](https://github.com/jaineil32624)** and is free to play. Back new games, 3D worlds and websites on the **[patron page](https://jaking-studios.github.io/patrons/)** through **[GitHub Sponsors](https://github.com/sponsors/jaineil32624)**, or **[buy JaKing a $5 coffee](https://github.com/sponsors/jaineil32624?frequency=one-time)**. You can also give to cancer research at **[St. Jude](https://www.stjude.org/donate/donate-to-st-jude.html)**. JaKing also tutors math up to AP Calc BC: **[JaKing Math tutoring](https://jaking-studios.github.io/tutoring/)**.
 
 Talk about any of the games, ask questions or share ideas in **[Discussions](https://github.com/orgs/jaking-studios/discussions)**.
 

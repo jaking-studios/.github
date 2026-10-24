@@ -9,6 +9,9 @@
   <a href="https://jaking-studios.github.io/glaze-and-grind/play/"><img src="https://img.shields.io/badge/▶_Play_Glaze_%26_Grind-E2B04A?style=for-the-badge&logo=godotengine&logoColor=black" alt="Play"></a>
   <a href="https://github.com/jaineil32624/jaineil32624/issues/new?template=game-request.yml"><img src="https://img.shields.io/badge/Commission_a_Game-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Commission a game"></a>
   <a href="https://github.com/sponsors/jaineil32624"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
+  <a href="https://www.patreon.com/c/JaineilRana"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
+  <a href="https://github.com/sponsors/jaineil32624?frequency=one-time"><img src="https://img.shields.io/badge/Buy_me_a_coffee-%245-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
+  <a href="https://scratch.mit.edu/users/jaineil32624/"><img src="https://img.shields.io/badge/Scratch-44_Games-FF9C00?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch games"></a>
   <a href="https://jaking-studios.github.io/patrons/"><img src="https://img.shields.io/badge/Become_a_Patron-F2BD4B?style=for-the-badge&logo=patreon&logoColor=black" alt="Become a patron"></a>
 </p>
 
@@ -34,13 +37,31 @@
 | 🏃 [Money Click](https://github.com/jaking-studios/Platformer) | Browser game | [▶ Play](https://jaking-studios.github.io/Platformer/) |
 | 👁️ [Demon Eye](https://github.com/jaking-studios/DemonEye) | Browser game | [▶ Play](https://jaking-studios.github.io/DemonEye/) |
 
+## 🐱 Scratch Games
+
+Before Godot and Unity, JaKing built games on Scratch: **44 shared projects** on [scratch.mit.edu/users/jaineil32624](https://scratch.mit.edu/users/jaineil32624/).
+
+| Game | What it is | Play |
+|---|---|---|
+| 🏰 [Bastion Blitz](https://scratch.mit.edu/projects/1393510306/) | Tower defense simulator | [▶ Play](https://scratch.mit.edu/projects/1393510306/) |
+| 🤖 [Chief Bot](https://scratch.mit.edu/projects/540675804/) | Online platformer | [▶ Play](https://scratch.mit.edu/projects/540675804/) |
+| ☠️ [Period](https://scratch.mit.edu/projects/555992413/) | Spooky platformer | [▶ Play](https://scratch.mit.edu/projects/555992413/) |
+| 🧊 [Reach the North Pole](https://scratch.mit.edu/projects/541640559/) | Arctic platformer | [▶ Play](https://scratch.mit.edu/projects/541640559/) |
+| 🌍 [Defend Earth](https://scratch.mit.edu/projects/409561252/) | Space defense shooter | [▶ Play](https://scratch.mit.edu/projects/409561252/) |
+| 🥷 [Toy Ninja 2: Thunder Ninja](https://scratch.mit.edu/projects/357195088/) | Ninja platformer sequel | [▶ Play](https://scratch.mit.edu/projects/357195088/) |
+| 🏴‍☠️ [Pirate Defender](https://scratch.mit.edu/projects/355965881/) | Defense game | [▶ Play](https://scratch.mit.edu/projects/355965881/) |
+| 🍫 [Choco Kingdom](https://scratch.mit.edu/projects/364700622/) | Chocolate-world adventure | [▶ Play](https://scratch.mit.edu/projects/364700622/) |
+| ❤️ [Undertale (fan game)](https://scratch.mit.edu/projects/611908467/) | Undertale-inspired fan project | [▶ Play](https://scratch.mit.edu/projects/611908467/) |
+
+👉 [See all 44 Scratch projects](https://scratch.mit.edu/users/jaineil32624/projects/)
+
 ## 💼 Commissions
 
 Want a custom game? **$70–100 per game**, with a **$30 launch deal** for the first few clients. You get the playable game **and all the files**. 👉 [Request a game](https://github.com/jaineil32624/jaineil32624/issues/new?template=game-request.yml)
 
 ## 👑 Support JaKing
 
-Everything here is made by **[Jaineil Rana (JaKing)](https://github.com/jaineil32624)** and is free to play. Back new games, 3D worlds and websites on the **[patron page](https://jaking-studios.github.io/patrons/)** through **[GitHub Sponsors](https://github.com/sponsors/jaineil32624)**, or **[buy JaKing a $5 coffee](https://github.com/sponsors/jaineil32624?frequency=one-time)**. You can also give to cancer research at **[St. Jude](https://www.stjude.org/donate/donate-to-st-jude.html)**. JaKing also tutors math up to AP Calc BC: **[JaKing Math tutoring](https://jaking-studios.github.io/tutoring/)**.
+Everything here is made by **[Jaineil Rana (JaKing)](https://github.com/jaineil32624)** and is free to play. Back new games, 3D worlds and websites on **[Patreon](https://www.patreon.com/c/JaineilRana)**, the **[patron page](https://jaking-studios.github.io/patrons/)** or **[GitHub Sponsors](https://github.com/sponsors/jaineil32624)**, or **[buy JaKing a $5 coffee](https://github.com/sponsors/jaineil32624?frequency=one-time)**. JaKing also tutors math up to AP Calc BC: **[JaKing Math tutoring](https://jaking-studios.github.io/tutoring/)**. You can also give to cancer research at **[St. Jude](https://www.stjude.org/donate/donate-to-st-jude.html)**.
 
 Talk about any of the games, ask questions or share ideas in **[Discussions](https://github.com/orgs/jaking-studios/discussions)**.
 

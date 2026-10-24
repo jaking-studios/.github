@@ -20,7 +20,7 @@
 | Game | What it is | Play |
 |---|---|---|
 | 🍩 [Glaze & Grind](https://github.com/jaking-studios/glaze-and-grind) | Donut & coffee shop tycoon (Godot 4) — web, Windows, Linux, Android | [▶ Play](https://jaking-studios.github.io/glaze-and-grind/play/) |
-| 🌍 [EpicWorlds50](https://github.com/jaking-studios/EpicWorlds50) | Explorable Blender worlds: pyramids, a chocolate volcano, floating sky islands (5 of 50) | [▶ Play](https://jaking-studios.github.io/EpicWorlds50/) |
+| 🌍 [EpicWorlds50](https://github.com/jaking-studios/EpicWorlds50) | Explorable Blender worlds: pyramids, a chocolate volcano, floating sky islands (5 of 50) · [🎬 Trailer](https://youtu.be/AMUR3_Rnyoo) | [▶ Play](https://jaking-studios.github.io/EpicWorlds50/) |
 | 🟢 [Slimefall TD](https://github.com/jaking-studios/slimefall-td) | Original tower defense with 28 towers | [▶ Play](https://jaking-studios.github.io/slimefall-td/) |
 | 🌸 [Bloomfolk Gardens](https://github.com/jaking-studios/bloomfolk-gardens) | Cozy pixel-art gardening & collection (Godot 4) | [▶ Play](https://jaking-studios.github.io/bloomfolk-gardens/) |
 | 🔁 [Infinite School](https://github.com/jaking-studios/infinite-school) | Pixel-art time-loop mystery RPG — Thursday never ends | [▶ Play](https://jaking-studios.github.io/infinite-school/) |

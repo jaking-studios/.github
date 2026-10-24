@@ -16,11 +16,12 @@
 | Game | What it is | Play |
 |---|---|---|
 | 🍩 [Glaze & Grind](https://github.com/jaking-studios/glaze-and-grind) | Donut & coffee shop tycoon (Godot 4) — web, Windows, Linux, Android | [▶ Play](https://jaking-studios.github.io/glaze-and-grind/play/) |
+| 🌍 [EpicWorlds50](https://github.com/jaking-studios/EpicWorlds50) | Explorable Blender worlds: pyramids, a chocolate volcano, floating sky islands (5 of 50) | [▶ Play](https://jaking-studios.github.io/EpicWorlds50/) |
 | 🟢 [Slimefall TD](https://github.com/jaking-studios/slimefall-td) | Original tower defense with 28 towers | [▶ Play](https://jaking-studios.github.io/slimefall-td/) |
 | 🌸 [Bloomfolk Gardens](https://github.com/jaking-studios/bloomfolk-gardens) | Cozy pixel-art gardening & collection (Godot 4) | [▶ Play](https://jaking-studios.github.io/bloomfolk-gardens/) |
 | 🔁 [Infinite School](https://github.com/jaking-studios/infinite-school) | Pixel-art time-loop mystery RPG — Thursday never ends | [▶ Play](https://jaking-studios.github.io/infinite-school/) |
 | 🐶 [Whiskerwag](https://github.com/jaking-studios/whiskerwag) | Virtual pet: adopt, feed, play fetch, teach it to talk | [▶ Play](https://jaking-studios.github.io/whiskerwag/) |
-| 💰 [Money Empire](https://github.com/jaking-studios/money-empire) | 3D multiplayer money tycoon (Godot 4) | [Repo](https://github.com/jaking-studios/money-empire) |
+| 💰 [Money Empire](https://github.com/jaking-studios/money-empire) | 3D multiplayer money tycoon (Godot 4) | [▶ Play](https://jaking-studios.github.io/money-empire/play/) |
 | ⛏️ [Idle Mining Empire](https://github.com/jaking-studios/idle-mining-empire) | 2D idle mining tycoon (Unity) | [▶ Play](https://jaking-studios.github.io/idle-mining-empire/) |
 | 🥷 [Stickman Shadow Wars](https://github.com/jaking-studios/stickman-shadow-wars-) | Stickman game built in Godot | [▶ Play](https://jaking-studios.github.io/stickman-shadow-wars-/) |
 | 🏎️ [HYPERCAR-X Drive](https://github.com/jaking-studios/hypercar-x-drive-unity) | 3D hypercar driving sim (Unity 6) | [▶ Play](https://jaking-studios.github.io/hypercar-x-drive-unity/) |

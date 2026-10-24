@@ -37,6 +37,21 @@
 | 🏃 [Money Click](https://github.com/jaking-studios/Platformer) | Browser game | [▶ Play](https://jaking-studios.github.io/Platformer/) |
 | 👁️ [Demon Eye](https://github.com/jaking-studios/DemonEye) | Browser game | [▶ Play](https://jaking-studios.github.io/DemonEye/) |
 
+## 🤖 Meet JaKing: JR-01 Aurum
+
+<p align="center"><a href="https://github.com/jaineil32624/Blender-Scenes/tree/main/jaking-robot"><img src="https://raw.githubusercontent.com/jaineil32624/Blender-Scenes/main/previews/jaking-robot-hero.jpg" width="420" alt="JaKing Robot JR-01 Aurum"></a></p>
+
+The JaKing Studios mascot: Jaineil Rana (JaKing) as a robot hero, sculpted in Blender. It has a gold crown, glowing cyan visor, "JR" emblem, energy sword and jet boots. Download the [.blend and game-ready .glb](https://github.com/jaineil32624/Blender-Scenes/tree/main/jaking-robot).
+
+## 🧊 3D Models & Worlds
+
+| Project | What it is | Get it |
+|---|---|---|
+| 🤖 [JaKing Robot](https://github.com/jaineil32624/Blender-Scenes/tree/main/jaking-robot) | Sculpted mascot robot (navy + gold armor, energy sword) | [.blend / .glb](https://github.com/jaineil32624/Blender-Scenes/tree/main/jaking-robot) |
+| 🌍 [EpicWorlds50](https://github.com/jaking-studios/EpicWorlds50) | 50-world Blender environment project, 5 released | [▶ Play](https://jaking-studios.github.io/EpicWorlds50/) |
+| 💎 [Diamond Cavern](https://github.com/jaineil32624/Blender-Scenes/tree/main/diamond-cavern) | Underground crystal cave with secret tunnels | [.blend](https://github.com/jaineil32624/Blender-Scenes/tree/main/diamond-cavern) |
+| 🌈 [Pink Wonderland Obby](https://github.com/jaineil32624/Blender-Scenes/tree/main/pink-wonderland-obby) | Roblox-ready candy obby, 50 platforms | [.blend / .fbx](https://github.com/jaineil32624/Blender-Scenes/tree/main/pink-wonderland-obby) |
+
 ## 🐱 Scratch Games
 
 Before Godot and Unity, JaKing built games on Scratch: **44 shared projects** on [scratch.mit.edu/users/jaineil32624](https://scratch.mit.edu/users/jaineil32624/).
